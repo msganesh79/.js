@@ -20,4 +20,7 @@ div.style.backgroundColor = "green";
 div.style.fontSize = "20px";
 div.innerText = "Hello!";
 
+let newBtn = document.createElement("button");
+newBtn.innerText = "Click Me";
+console.log(newBtn);
 
