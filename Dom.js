@@ -15,5 +15,9 @@
 // console.log(para1.setAttribute("class" ,"new-class"));
 
 let div = document.querySelector("div");
+div.style.backgroundColor = "blue";
+div.style.backgroundColor = "green";
+div.style.fontSize = "20px";
+div.innerText = "Hello!";
 
 
